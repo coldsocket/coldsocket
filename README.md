@@ -1,6 +1,6 @@
 - 👋 Hi, I’m _
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning to program in C&C++
+- 🌱 I’m currently learning to program in Python and C++
 
 <!---
 this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
